@@ -4,7 +4,7 @@
 #
 id: studio.okcode.open_alert_viewer
 runtime: org.freedesktop.Platform
-runtime-version: "24.08"
+runtime-version: "25.08"
 sdk: org.freedesktop.Sdk
 command: open_alert_viewer
 finish-args:
